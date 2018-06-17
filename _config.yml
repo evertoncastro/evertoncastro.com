@@ -11,7 +11,7 @@ site-twitter:
 # Author Settings
 author: Everton Castro
 author-img: me.jpg
-about-author: Sou desenvolvedor de sistemas e fã de podcasts e blogs. Gosto muito de tecnologia.
+about-author: Sou desenvolvedor de sistemas e fã de podcasts e blogs de diversos assuntos. <br/>E claro, amo tecnologia. 💻🤓
 social-twitter: evertonCastroSP
 social-facebook: everton.decastro.12
 social-github: evertoncastro
@@ -19,7 +19,7 @@ social-linkedin: evertonfatecit
 social-email: evertoncastro.sp@gmail.com
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: evertoncastro
 
 # Tracker
 analytics: # Google Analytics
