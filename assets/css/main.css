@@ -1000,6 +1000,31 @@ table tfoot td {
   margin: 0 0 10px;
 }
 
+.menu-content {
+  margin: 20px 0;
+}
+
+.menu-content .menu-list {
+  text-align: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.menu-content .menu-list .menu-item {
+  margin: 15px 10px;
+}
+
+.menu-content .menu-list .menu-item a {
+  color: #333030;
+  text-decoration: none;
+}
+
+.menu-content .menu-list .menu-item a:hover {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
 .content-box {
   padding: 20px;
   padding-left: 260px;
@@ -1433,6 +1458,15 @@ a.newer-posts:hover {
     -webkit-border-radius: 100%;
             border-radius: 100%;
     margin-bottom: 10px;
+  }
+  .menu-content {
+    margin: 10px 0;
+  }
+  .menu-content .menu-list .menu-item {
+    margin: 10px 10px;
+  }
+  .menu-content .menu-list .menu-item a {
+    text-decoration: underline;
   }
   .content-box {
     padding: 20px 10px;

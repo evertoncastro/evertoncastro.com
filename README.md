@@ -1,4 +1,4 @@
-# My site using the Jekyll Awosome Theme Flexible-Jekyll. :ok_hand:
+# My site using the Jekyll Awesome Theme Flexible-Jekyll. :ok_hand:
 
 ## Features
 

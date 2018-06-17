@@ -58,6 +58,27 @@
     margin: 0 0 10px;
   }
 }
+.menu-content{
+    margin: 20px 0;
+    .menu-list{
+        text-align: center;
+        list-style: none;
+        padding: 0;
+        margin: 0;
+
+        .menu-item{
+            margin: 15px 10px;
+            a {
+                color: $dark;
+                text-decoration: none;
+            }
+            a:hover {
+                text-decoration: underline;
+                font-weight: bold;
+            }
+        }
+    }
+}
 .content-box {
   padding: 20px;
   padding-left: 260px;
