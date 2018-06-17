@@ -781,6 +781,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+a {
+  color: #515151;
+}
+
 h1 {
   font-weight: 400;
 }
@@ -1013,6 +1017,11 @@ table tfoot td {
 
 .menu-content .menu-list .menu-item {
   margin: 15px 10px;
+  -webkit-transition: -webkit-transform 0.35s;
+  transition: -webkit-transform 0.35s;
+  -o-transition: transform 0.35s;
+  transition: transform 0.35s;
+  transition: transform 0.35s, -webkit-transform 0.35s;
 }
 
 .menu-content .menu-list .menu-item a {
@@ -1023,6 +1032,11 @@ table tfoot td {
 .menu-content .menu-list .menu-item a:hover {
   text-decoration: underline;
   font-weight: bold;
+}
+
+.menu-content .menu-list .menu-item:hover {
+  -webkit-transform: scale3d(1.1, 1.1, 1);
+  transform: scale3d(1.1, 1.1, 1);
 }
 
 .content-box {
@@ -1519,4 +1533,9 @@ a.newer-posts:hover {
   .post .post-content .post-title a {
     font-size: 21px;
   }
+}
+
+/* - - - - - - - - - - Page Favorites Styles - - - - - - - - - - */
+.discus-content {
+  width: 100%;
 }

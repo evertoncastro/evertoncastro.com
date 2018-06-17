@@ -68,6 +68,12 @@
 
         .menu-item{
             margin: 15px 10px;
+            -webkit-transition: -webkit-transform 0.35s;
+            transition: -webkit-transform 0.35s;
+            -o-transition: transform 0.35s;
+            transition: transform 0.35s;
+            transition: transform 0.35s, -webkit-transform 0.35s;
+
             a {
                 color: $dark;
                 text-decoration: none;
@@ -77,6 +83,12 @@
                 font-weight: bold;
             }
         }
+
+        .menu-item:hover {
+             -webkit-transform: scale3d(1.1, 1.1, 1);
+               transform: scale3d(1.1, 1.1, 1);
+         }
+
     }
 }
 .content-box {

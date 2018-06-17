@@ -19,6 +19,11 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+a {
+    color: $link-color;
+}
+
+
 h1 {
   font-weight: 400;
 }
@@ -147,3 +152,6 @@ table tfoot td {
 
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
 @import 'media';
+
+/* - - - - - - - - - - Page Favorites Styles - - - - - - - - - - */
+@import 'parts/favorites';

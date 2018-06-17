@@ -5,18 +5,64 @@ permalink: /favorites/
 ---
 
 # Favoritos
+Estes são os Podcasts, Blogs, Canais, Sites e Livros que utilizo para consumir conteúdo e aprender mais sobre vários temas.
 
->Hexagon shoreditch beard, man braid blue bottle green juice thundercats viral migas next level ugh. Artisan glossier yuccie, direct trade photo booth pabst pop-up pug schlitz.
+* PODCASTS 🎧
+    + Tecnologia
+        - [Hipsted Ponto Tech <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://hipsters.tech/){:target="_blank"}
+        - [devnaestrada <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://devnaestrada.com.br/){:target="_blank"}
+        - [Like a Boss <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.likeaboss.com.br/){:target="_blank"}
+        - [Pod Programar <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://mundopodcast.com.br/podprogramar/){:target="_blank"}
+        - [GV Cast <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://geracaodevalor.com/gvcast/){:target="_blank"}
+    + Diversos
+        - [Nerd Cast <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://jovemnerd.com.br/nerdcast/){:target="_blank"}
+        - [Café Brasil <i class="fa fa-external-link-square" aria-hidden="true"></i>](http://www.portalcafebrasil.com.br/podcasts/){:target="_blank"}
 
-Cronut lumbersexual fingerstache asymmetrical, single-origin coffee roof party unicorn. Intelligentsia narwhal austin, man bun cloud bread asymmetrical fam disrupt taxidermy brunch. Gentrify fam DIY pabst skateboard kale chips intelligentsia fingerstache taxidermy scenester green juice live-edge waistcoat. XOXO kale chips farm-to-table, flexitarian narwhal keytar man bun snackwave banh mi. Semiotics pickled taiyaki cliche cold-pressed. Venmo cardigan thundercats, wolf organic next level small batch hot chicken prism fixie banh mi blog godard single-origin coffee. Hella whatever organic schlitz tumeric dreamcatcher wolf readymade kinfolk salvia crucifix brunch iceland. Literally meditation four loko trust fund. Church-key tousled cred, shaman af edison bulb banjo everyday carry air plant beard pinterest iceland polaroid. Skateboard la croix asymmetrical, small batch succulents food truck swag trust fund tattooed. Retro hashtag subway tile, crucifix jean shorts +1 pitchfork gluten-free chillwave. Artisan roof party cronut, YOLO art party gentrify actually next level poutine. Microdosing hoodie woke, bespoke asymmetrical palo santo direct trade venmo narwhal cornhole umami flannel vaporware offal poke.
+* BLOGS 💻
+    + Tecnologia
+        - [Blog da Alura <i class="fa fa-external-link-square" aria-hidden="true"></i>](http://blog.alura.com.br//){:target="_blank"}
+        - [Blog da Caelum <i class="fa fa-external-link-square" aria-hidden="true"></i>](http://blog.caelum.com.br/){:target="_blank"}
+    + Diversos
+        - [Café Brasil <i class="fa fa-external-link-square" aria-hidden="true"></i>](http://www.portalcafebrasil.com.br/todos/artigos/){:target="_blank"}
+        - [Rainha Vermelha <i class="fa fa-external-link-square" aria-hidden="true"></i>](http://scienceblogs.com.br/rainha/){:target="_blank"}
 
-* Hexagon shoreditch beard
-* Intelligentsia narwhal austin
-* Literally meditation four
-* Microdosing hoodie woke
-
-Wayfarers lyft DIY sriracha succulents twee adaptogen crucifix gastropub actually hexagon raclette franzen polaroid la croix. Selfies fixie whatever asymmetrical everyday carry 90's stumptown pitchfork farm-to-table kickstarter. Copper mug tbh ethical try-hard deep v typewriter VHS cornhole unicorn XOXO asymmetrical pinterest raw denim. Skateboard small batch man bun polaroid neutra. Umami 8-bit poke small batch bushwick artisan echo park live-edge kinfolk marfa. Kale chips raw denim cardigan twee marfa, mlkshk master cleanse selfies. Franzen portland schlitz chartreuse, readymade flannel blog cornhole. Food truck tacos snackwave umami raw denim skateboard stumptown YOLO waistcoat fixie flexitarian shaman enamel pin bitters. Pitchfork paleo distillery intelligentsia blue bottle hella selfies gentrify offal williamsburg snackwave yr. Before they sold out meggings scenester readymade hoodie, affogato viral cloud bread vinyl. Thundercats man bun sriracha, neutra swag knausgaard jean shorts. Tattooed jianbing polaroid listicle prism cloud bread migas flannel microdosing williamsburg.
-
-Echo park try-hard irony tbh vegan pok pok. Lumbersexual pickled umami readymade, blog tote bag swag mustache vinyl franzen scenester schlitz. Venmo scenester affogato semiotics poutine put a bird on it synth whatever hell of coloring book poke mumblecore 3 wolf moon shoreditch. Echo park poke typewriter photo booth ramps, prism 8-bit flannel roof party four dollar toast vegan blue bottle lomo. Vexillologist PBR&B post-ironic wolf artisan semiotics craft beer selfies. Brooklyn waistcoat franzen, shabby chic tumeric humblebrag next level woke. Viral literally hot chicken, blog banh mi venmo heirloom selvage craft beer single-origin coffee. Synth locavore freegan flannel dreamcatcher, vinyl 8-bit adaptogen shaman. Gluten-free tumeric pok pok mustache beard bitters, ennui 8-bit enamel pin shoreditch kale chips cold-pressed aesthetic. Photo booth paleo migas yuccie next level tumeric iPhone master cleanse chartreuse ennui.
-
-Creditos da imagem [Emma Frances Logan on Unsplash]
+* CANAIS ⏩
+    + Tecnologia
+        - [BrazilJS <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.youtube.com/user/BrazilJS){:target="_blank"}
+        - [Alura Cursos Online <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw){:target="_blank"}
+        - [DEVNAESTRADA <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.youtube.com/channel/UCtIygB7LtILSFWR0kxtZC-A){:target="_blank"}
+        - [Código Fonte TV <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.youtube.com/channel/UCFuIUoyHB12qpYa8JpxoxowA){:target="_blank"}
+        - [Fun Fun Function <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q){:target="_blank"}
+        - [Pagar.me Talks <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.youtube.com/channel/UCNhSCufrcOMeFvzEM7tt9Lw){:target="_blank"}
+        - [The Coding Train <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw){:target="_blank"}
+        - [Eduardo Mendes <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.youtube.com/channel/UCAaKeg-BocRqphErdtIUFFw){:target="_blank"}
+    + Diversos
+        - [Nerdologia <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.youtube.com/channel/UClu474HMt895mVxZdlIHXEA){:target="_blank"}
+        - [Gustavo Cerbasi <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.youtube.com/channel/UC_mSfchV-fgpPy-vuwML8_A){:target="_blank"}
+        - [The English Coach <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.youtube.com/channel/UC-g0gSStENkYPXFRsKrlvyA){:target="_blank"}
+    
+* SITES 🌐
+    + Tecnologia
+        - [iMasters <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://imasters.com.br/){:target="_blank"}
+        - [InfoQ <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.infoq.com/br){:target="_blank"}
+        
+* LIVROS 📘
+    + Tecnologia
+        - [You Dont Know JS <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://github.com/getify/You-Dont-Know-JS){:target="_blank"}
+        
+* APLICATIVOS 👨‍💻
+    - [PodCast Addict <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict){:target="_blank"} Com este aplicativo consigo gerenciar todos o Podcasts que acompanho. Posso baixar em meu smartphone para ouvir a caminho do trabalho.
+    - [PodCast Addict - Donate <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddictdonate){:target="_blank"} Adquiri a versão paga para apoiar o criador. Ele sempre lança novas atualizações com novas features e bug fixes.
+    - [Moon+ Reader <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader){:target="_blank"} Melhor aplicativo que ja utilizei pra ler Epub e PDF.
+    - [Moon+ Reader Pro <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp){:target="_blank"} Adquiri a versão paga para ter uns temas legais e apoiar o criador.
+    - [YouTube Go <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.mango){:target="_blank"} Eu nem acreditei quando o Google publicou esse aplicativo. Com ele é possível baixar vídeos do Youtube para assistir offline. Me ajuda muito quando quero estudar alguma aula que está disponível nos canais que acompanho.
+    
+    
+    
+Utilizem o fórum abaixo para sugerir conteúdos relevantes que vocês acompanham.️    
+        
+<div class="discus-content">
+    <div class="wrap-content">
+        {% include disqus.html %}
+    </div>
+</div>      
