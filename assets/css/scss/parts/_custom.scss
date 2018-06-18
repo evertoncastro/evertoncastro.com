@@ -4,9 +4,31 @@
     #mySidenav{
         display: none;
     }
+    .navbar{
+        display: none;
+    }
+}
+
+.menu-hamburger{
+    font-size: 25px;
+    line-height: 25px;
+    float: right;
+    padding: 8px 20px;
 }
 
 @media only screen and (max-width : 768px) {
+    #mySidenav {
+        z-index: 101;
+    }
+    .navbar {
+        overflow: hidden;
+        background-color: #fbfbfb;
+        z-index: 100;
+        height: 40px;
+        position: fixed; /* Set the navbar to fixed position */
+        top: 0; /* Position the navbar at the top of the page */
+        width: 100%; /* Full width */
+    }
     .sidenav {
         height: 100%; /* 100% Full-height */
         width: 0; /* 0 width - change this with JavaScript */
@@ -17,7 +39,7 @@
         background-color: #ffffff; /* Black*/
         overflow-x: hidden; /* Disable horizontal scroll */
         padding-top: 20px; /* Place content 60px from the top */
-        transition: 0.2s; /* 0.5 second transition effect to slide in the sidenav */
+        transition: 0.1s; /* 0.5 second transition effect to slide in the sidenav */
     }
 
     /* The navigation menu links */
@@ -38,15 +60,19 @@
     /* Position and style the close button (top right corner) */
     .sidenav .closebtn {
         position: absolute;
-        top: 0;
-        right: 25px;
+        top: -12px;
+        right: 12px;
         font-size: 36px;
         margin-left: 50px;
     }
 
     #main {
         transition: margin-left .5s;
-        padding: 20px;
+        padding: 40px 20px 20px 20px;
+    }
+
+    .about p{
+        padding: 0 10px;
     }
 
 }
