@@ -22,6 +22,7 @@ Estes são os Podcasts, Blogs, Canais, Sites e Livros que utilizo para consumir 
     + Tecnologia
         - [Blog da Alura <i class="fa fa-external-link-square" aria-hidden="true"></i>](http://blog.alura.com.br//){:target="_blank"}
         - [Blog da Caelum <i class="fa fa-external-link-square" aria-hidden="true"></i>](http://blog.caelum.com.br/){:target="_blank"}
+        - [Gabs Ferreira <i class="fa fa-external-link-square" aria-hidden="true"></i>](http://gabsferreira.com/){:target="_blank"}
     + Diversos
         - [Café Brasil <i class="fa fa-external-link-square" aria-hidden="true"></i>](http://www.portalcafebrasil.com.br/todos/artigos/){:target="_blank"}
         - [Rainha Vermelha <i class="fa fa-external-link-square" aria-hidden="true"></i>](http://scienceblogs.com.br/rainha/){:target="_blank"}

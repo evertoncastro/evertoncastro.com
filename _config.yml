@@ -1,8 +1,6 @@
 title: Everton
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Conteúdo sobre desenvolvimento de sistemas. Início de carreira em tecnologia e compartilhamento de conteúdo para estudo.
 permalink: ':title/'
 baseurl: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -11,7 +9,7 @@ site-twitter:
 # Author Settings
 author: Everton Castro
 author-img: me.jpg
-about-author: Sou desenvolvedor de sistemas e fã de podcasts e blogs de diversos assuntos. <br/>E claro, amo tecnologia. 💻🤓
+about-author: Desenvovedor de sistemas, fã de podcasts, canais e livros de tecnologia. <br/>🤓🎧💻📚
 social-twitter: evertonCastroSP
 social-facebook: everton.decastro.12
 social-github: evertoncastro
