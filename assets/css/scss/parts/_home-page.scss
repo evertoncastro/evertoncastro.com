@@ -216,16 +216,17 @@ footer {
 }
 
 a.older-posts, a.newer-posts {
-  font-size: 18px;
+  font-size: 25px;
+  vertical-align: sub;
   display: inline-block;
   color: $body-color;
   transition: transform .2s;
 }
 
 a.older-posts:hover {
-  transform: translateX(5px);
+  transform: translateX(2px);
 }
 
 a.newer-posts:hover {
-  transform: translateX(-5px);
+  transform: translateX(-2px);
 }

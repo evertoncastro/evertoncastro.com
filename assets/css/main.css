@@ -1211,7 +1211,8 @@ footer .copyright {
 }
 
 a.older-posts, a.newer-posts {
-  font-size: 18px;
+  font-size: 25px;
+  vertical-align: sub;
   display: inline-block;
   color: #515151;
   -webkit-transition: -webkit-transform .2s;
@@ -1222,15 +1223,15 @@ a.older-posts, a.newer-posts {
 }
 
 a.older-posts:hover {
-  -webkit-transform: translateX(5px);
-      -ms-transform: translateX(5px);
-          transform: translateX(5px);
+  -webkit-transform: translateX(2px);
+      -ms-transform: translateX(2px);
+          transform: translateX(2px);
 }
 
 a.newer-posts:hover {
-  -webkit-transform: translateX(-5px);
-      -ms-transform: translateX(-5px);
-          transform: translateX(-5px);
+  -webkit-transform: translateX(-2px);
+      -ms-transform: translateX(-2px);
+          transform: translateX(-2px);
 }
 
 /* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
@@ -1538,4 +1539,20 @@ a.newer-posts:hover {
 /* - - - - - - - - - - Page Custom Styles - - - - - - - - - - */
 .discus-content {
   width: 100%;
+}
+
+.pagination-container {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
+.page-number {
+  margin: 10px;
+  text-align: center;
+}
+
+.box-button-pagination {
+  display: inline-block;
+  width: 20px;
 }
