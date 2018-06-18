@@ -785,6 +785,10 @@ a {
   color: #515151;
 }
 
+a:hover {
+  font-weight: bold;
+}
+
 h1 {
   font-weight: 400;
 }
@@ -1555,4 +1559,10 @@ a.newer-posts:hover {
 .box-button-pagination {
   display: inline-block;
   width: 20px;
+}
+
+.content-box h1 {
+  display: block;
+  text-align: center;
+  width: 100%;
 }

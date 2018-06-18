@@ -23,6 +23,10 @@ a {
     color: $link-color;
 }
 
+a:hover {
+    font-weight: bold;
+}
+
 
 h1 {
   font-weight: 400;
