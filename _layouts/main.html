@@ -2,11 +2,33 @@
 layout: default
 ---
 
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <header>
+    <div class="about">
+      <div class="cover-author-image">
+        <img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}">
+      </div>
+      <div class="author-name">{{site.author}}</div>
+      <p>{{site.about-author}}</p>
+    </div>
+    <div class="menu-content">
+      <ul class="menu-list">
+        <li class="menu-item"><a href="{{site.baseurl}}/">HOME</a></li>
+        <li class="menu-item"><a href="{{site.baseurl}}/tags/">ASSUNTOS</a></li>
+        <li class="menu-item"><a href="{{site.baseurl}}/about/">SOBRE</a></li>
+        <li class="menu-item"><a href="{{site.baseurl}}/favorites/">FAVORITOS</a></li>
+        <li class="menu-item"><a href="{{site.baseurl}}/following/">SEGUINDO</a></li>
+      </ul>
+    </div>
+  </header> <!-- End Header -->
+</div>
+
 <aside class="sidebar">
   <header>
     <div class="about">
       <div class="cover-author-image">
-        <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
+        <img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
       </div>
       <div class="author-name">{{site.author}}</div>
       <p>{{site.about-author}}</p>
@@ -57,6 +79,19 @@ layout: default
     </div>
   </footer> <!-- End Footer -->
 </aside> <!-- End Sidebar -->
-<div class="content-box clearfix">
+<div id="main" class="content-box clearfix">
   {{ content }}
 </div>
+
+<script>
+  /* Open the sidenav */
+  function openNav() {
+      document.getElementById("mySidenav").style.width = "100%";
+  }
+
+  /* Close/hide the sidenav */
+  function closeNav() {
+      document.getElementById("mySidenav").style.width = "0";
+  }
+
+</script>

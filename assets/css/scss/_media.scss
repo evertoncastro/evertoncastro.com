@@ -1,4 +1,6 @@
 /* Medium Devices, Desktops */
+
+
 @media only screen and (max-width : 992px) {
   .post {
     width: 48%;
@@ -26,7 +28,9 @@
 @media only screen and (max-width : 768px) {
   .sidebar {
     position: relative;
-    display: flex;
+    /* FOR MOBILE SIDE NAV */
+    display: none;
+    /*display: flex;*/
     flex-direction: column;
     justify-content: space-between;
     width: 100%;
