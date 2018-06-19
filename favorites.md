@@ -58,9 +58,7 @@ Estes são os Podcasts, Blogs, Canais, Sites e Livros que utilizo para consumir 
     - [Moon+ Reader Pro <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp){:target="_blank"} Adquiri a versão paga para ter uns temas legais e apoiar o criador.
     - [YouTube Go <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.mango){:target="_blank"} Eu nem acreditei quando o Google publicou esse aplicativo. Com ele é possível baixar vídeos do Youtube para assistir offline. Me ajuda muito quando quero estudar alguma aula que está disponível nos canais que acompanho.
     
-    
-    
-Utilizem o fórum abaixo para sugerir conteúdos relevantes que vocês acompanham.️    
+       
         
 <div class="discus-content">
     <div class="wrap-content">

@@ -892,7 +892,7 @@ table tfoot td {
 }
 
 .wrapper {
-  max-width: 1250px;
+  max-width: 2500px;
   position: relative;
 }
 
@@ -1078,8 +1078,8 @@ table tfoot td {
   content: "";
   display: block;
   height: 2px;
-  width: -webkit-calc(50% - 70px);
-  width: calc(50% - 70px);
+  width: -webkit-calc(50% - 35px);
+  width: calc(50% - 35px);
   -webkit-transform: translateY(-50%);
       -ms-transform: translateY(-50%);
           transform: translateY(-50%);
@@ -1093,8 +1093,8 @@ table tfoot td {
   content: "";
   display: block;
   height: 2px;
-  width: -webkit-calc(50% - 70px);
-  width: calc(50% - 70px);
+  width: -webkit-calc(50% - 35px);
+  width: calc(50% - 35px);
   -webkit-transform: translateY(-50%);
       -ms-transform: translateY(-50%);
           transform: translateY(-50%);
@@ -1659,4 +1659,8 @@ a.newer-posts:hover {
 
 .post-title a:hover {
   font-weight: 100;
+}
+
+p {
+  margin-bottom: 0px;
 }
