@@ -786,7 +786,7 @@ a {
 }
 
 a:hover {
-  font-weight: bold;
+  color: #0008ff;
 }
 
 h1 {
@@ -892,7 +892,7 @@ table tfoot td {
 }
 
 .wrapper {
-  max-width: 2500px;
+  max-width: 1250px;
   position: relative;
 }
 
@@ -1001,6 +1001,10 @@ table tfoot td {
   -webkit-border-radius: 100%;
           border-radius: 100%;
   background-color: #515151;
+}
+
+.about .author-resume {
+  max-width: 250px;
 }
 
 .about p {

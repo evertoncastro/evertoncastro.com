@@ -24,7 +24,7 @@ a {
 }
 
 a:hover {
-    font-weight: bold;
+    color: $link-color-hover;
 }
 
 
@@ -118,7 +118,7 @@ table tfoot td {
 }
 
 .wrapper {
-  max-width: 2500px;
+  max-width: 1250px;
   position: relative;
 }
 
