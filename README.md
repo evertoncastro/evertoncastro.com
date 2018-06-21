@@ -20,6 +20,8 @@ npm install
 gulp default
 ou
 gulp
+ou
+jekyll serve --livereload
 ```
 
 ### License

@@ -20,7 +20,7 @@ social-email: evertoncastro.sp@gmail.com
 discus-identifier: evertoncastro
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-121170851-1
 
 # Build Settings
 markdown: kramdown
