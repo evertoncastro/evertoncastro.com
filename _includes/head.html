@@ -69,8 +69,17 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta property="og:image" content="">
-	<link rel="shortcut icon" href="{{ "/assets/img/favicon/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
-	<link rel="apple-touch-icon" href="{{ "/assets/img/favicon/apple-touch-icon.png" | prepend: site.baseurl }}">
+    <!-- Android -->
+    <link rel="icon" type="image/png" sizes="36x36"  href="{{ "/assets/img/favicon/android-icon-36x36.png" | prepend: site.baseurl }}">
+    <link rel="icon" type="image/png" sizes="48x48"  href="{{ "/assets/img/favicon/android-icon-48x48.png" | prepend: site.baseurl }}">
+    <link rel="icon" type="image/png" sizes="72x72"  href="{{ "/assets/img/favicon/android-icon-72x72.png" | prepend: site.baseurl }}">
+    <link rel="icon" type="image/png" sizes="96x96"  href="{{ "/assets/img/favicon/android-icon-96x96.png" | prepend: site.baseurl }}">
+    <link rel="icon" type="image/png" sizes="144x144"  href="{{ "/assets/img/favicon/android-icon-144x144.png" | prepend: site.baseurl }}">
+	<link rel="icon" type="image/png" sizes="192x192"  href="{{ "/assets/img/favicon/android-icon-192x192.png" | prepend: site.baseurl }}">
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="{{ "/assets/img/favicon/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
+	<!-- Apple -->
+    <link rel="apple-touch-icon" href="{{ "/assets/img/favicon/apple-touch-icon.png" | prepend: site.baseurl }}">
 	<link rel="apple-touch-icon" sizes="72x72" href="{{ "/assets/img/favicon/apple-touch-icon-72x72.png" | prepend: site.baseurl }}">
 	<link rel="apple-touch-icon" sizes="114x114" href="{{ "/assets/img/favicon/apple-touch-icon-114x114.png" | prepend: site.baseurl }}">
 	<!-- Chrome, Firefox OS and Opera -->
@@ -79,6 +88,8 @@
 	<meta name="msapplication-navbutton-color" content="#263959">
 	<!-- iOS Safari -->
 	<meta name="apple-mobile-web-app-status-bar-style" content="#263959">
+    <!-- Manifest -->
+    <link rel="manifest" href="manifest.json">
 	<!-- Google Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=PT+Serif:400,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
