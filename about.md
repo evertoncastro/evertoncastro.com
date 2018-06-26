@@ -14,7 +14,7 @@ Nesse tempo tive a oportunidade de trabalhar com várias tecnologias e arquitetu
 
 Tenho utilizado e estudado mais a linguagem Python, que por sinal é a que mais tenho conhecimento juntamente com Javascript. Contudo, não sou apegado a linguagem, pois percebi nesse tempo que a linguagem ou tecnologia são meios para atingir um fim ainda maior, que nesse caso é prover uma solução para um problema. 
 
-Me lembro de quando eu havia iniciado a faculdade e estava um pouco perdido sobre o que fazer para entrar na área de desenvolvimento. Na época eu não conhecia todos esses [blogs e canais](/favorites/) que acompanho agora, se eu conhecesse provavelmente teriam me ajudado muito a dar os primeiros passos que foram bem difícies.
+Me lembro de quando eu havia iniciado a faculdade e estava um pouco perdido sobre o que fazer para entrar na área de desenvolvimento. Eu ja trabalhava com tecnologia mas não com programação e tinha dúvidas sobre o que estudar ou até mesmo de como iniciar um projeto, além de conhecer uma ou duas pessoas que já estavam na área com quem eu não tinha muita proximidade. Na época eu não conhecia todos esses [blogs e canais](/favorites/) que acompanho agora, se eu conhecesse provavelmente teriam me ajudado muito a dar os primeiros passos que foram bem difícies.
 
 Espero poder ajudar alguém que esteja começando na área com este conteúdo!
 
