@@ -2,7 +2,7 @@
 layout: post
 title: Não há motivos para seguir sozinho no início da carreira
 date: 2018-06-23 22:29:20 +0300
-description: test
+description: Não há motivos para seguir sozinho no início da carreira
 img: helping-a-starter.jpg
 img-credits: Emma Frances Logan on Unsplash
 fig-caption: Um garoto pequeno correndo por uma rua deserta sozinho
