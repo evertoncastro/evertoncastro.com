@@ -13,10 +13,10 @@ Estes são os Podcasts, Blogs, Canais, Sites e Livros que utilizo para consumir 
         - [devnaestrada <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://devnaestrada.com.br/){:target="_blank"}
         - [Like a Boss <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.likeaboss.com.br/){:target="_blank"}
         - [Pod Programar <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://mundopodcast.com.br/podprogramar/){:target="_blank"}
-        - [GV Cast <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://geracaodevalor.com/gvcast/){:target="_blank"}
     + Diversos
         - [Nerd Cast <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://jovemnerd.com.br/nerdcast/){:target="_blank"}
         - [Café Brasil <i class="fa fa-external-link-square" aria-hidden="true"></i>](http://www.portalcafebrasil.com.br/podcasts/){:target="_blank"}
+        - [GV Cast <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://geracaodevalor.com/gvcast/){:target="_blank"}
 
 * BLOGS 💻
     + Tecnologia
