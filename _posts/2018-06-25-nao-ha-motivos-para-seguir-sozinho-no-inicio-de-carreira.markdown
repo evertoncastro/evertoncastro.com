@@ -21,7 +21,7 @@ Nesse momento me lembrei das dúvidas mais básicas que eu tinha no início, tai
 
 Com esse pensamento em mente, considerando que ele já conhecia algumas tecnologias, comecei a mostrar de forma sucinta como funciona uma aplicação web, explicando o que são recursos estáticos como arquivos html, css e javascript; funcionamento de um servidor de aplicação e banco de dados; diferença enfre front-end e back-end; hospedagem de aplicações e vários outros itens que compõem um sistema web convencional.
 
-Naquela semana ele começou a utilizar o [github](https://github.com/){:target="_blank"} e subir alguns projetos pessoais em que tive a oportunidade de ajudá-lo dando algumas dicas. Dias depois ele participou de um processo seletivo e em meio a vários candidatos destacou-se por parecer bastante motivado a aprender, e por estar familiarizado com algumas tecnologias conseguiur a vaga.
+Naquela semana ele começou a utilizar o [github](https://github.com/){:target="_blank"} e subir alguns projetos pessoais em que tive a oportunidade de ajudá-lo dando algumas dicas. Dias depois ele participou de um processo seletivo e em meio a vários candidatos destacou-se por parecer bastante motivado a aprender, e por estar familiarizado com algumas tecnologias conseguiu a vaga.
 
 Entender como esses recursos se conectam um ao outro ajudam muito a definir um plano e foco de estudo. Por exemplo, uma pessoa que pretende trabalhar com desenvolvimento de aplicações web pode começar a desenvolver páginas estáticas utilizando html e css; em seguida pode criar formulários e validá-los com javascript.
 
