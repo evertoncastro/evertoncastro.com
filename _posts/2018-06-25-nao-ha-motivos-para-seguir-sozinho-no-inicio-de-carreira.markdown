@@ -17,7 +17,7 @@ Em uma conversa no início do ano ele me contou que estava fazendo o mesmo curso
 
 Há semanas atrás ele me pediu algumas dicas de como buscar vagas e no fim decidimos nos encontrar para eu explicar coisas que poderiam ajudá-lo a se preparar. Nessa hora tive a oportunidade de falar tudo que eu gostaria de saber quando eu me encontrava na mesma situação.
 
-Nesse momento me lembrei das dúvidas mais básicas que eu tinha no início, tais como: diferença entre front-end e back-end ou até mesmo pensar que java e javascript eram a mesma coisa. Na faculdade eu percebia as coisas separadas umas das outras e não conseguia conectá-las de uma forma que fizesse sentido e acredito que isso aconteça com muitos, talvez por, às vezes, termos uma atividade passiva de aprendizado. A propósito, acredito que a proposta de um curso possa ser a de mostrar o caminho e que nós devemos ser ativos ao buscar fortalecer o conhecimento.
+Nesse momento me lembrei das dúvidas mais básicas que eu tinha no início, tais como: diferença entre front-end e back-end ou até mesmo pensar que java e javascript eram a mesma coisa. Na faculdade eu percebia as coisas separadas umas das outras e não conseguia conectá-las de uma forma que fizesse sentido e acredito que isso aconteça com muitos, talvez por, às vezes, termos uma atitude passiva de aprendizado. A propósito, acredito que a proposta de um curso possa ser a de mostrar o caminho e que nós devemos ser ativos ao buscar fortalecer o conhecimento.
 
 Com esse pensamento em mente, considerando que ele já conhecia algumas tecnologias, comecei a mostrar de forma sucinta como funciona uma aplicação web, explicando o que são recursos estáticos como arquivos html, css e javascript; funcionamento de um servidor de aplicação e banco de dados; diferença enfre front-end e back-end; hospedagem de aplicações e vários outros itens que compõem um sistema web convencional.
 
@@ -29,11 +29,11 @@ Em paralelo pode estudar os conceitos básicos do protocolo http (que é o proto
 
 Nesse [link](http://blog.alura.com.br/o-dia-a-dia-de-um-profissional-que-aprende-o-calendario-de-estudo/){:target="_blank"} tem um post muito legal do Guilherme Silveira da Alura/Caelum explicando uma forma bem eficiente de organizar o estudo.
 
-Outra atitude legal é criar projetos pessoais. Me lembro de quando eu ainda não havia entrado na área de desenvolvimento, e queria muito comprovar um pouco do que eu tinha aprendido, decidi criar um projeto pessoal como um jogo de perguntas e respostas e levei nas entrevistas que participei e foi o que me ajudou. Hoje existem várias formas de fazer isso como, por exemplo, subir todos o seus projetos pessoais no [github](https://github.com/) e apresentá-los.
+Outra atitude legal é criar projetos pessoais. Me lembro de quando eu ainda não havia entrado na área de desenvolvimento e queria muito comprovar um pouco do que eu tinha aprendido. Decidi criar um projeto pessoal como um jogo de perguntas e respostas e levei nas entrevistas que participei e foi o que me ajudou. Hoje existem várias formas de fazer isso como, por exemplo, subir todos o seus projetos pessoais no [github](https://github.com/) e apresentá-los.
 
-Não quero dizer que uma pessoa deve ficar 24 horas por dia estudando e criando projetos. Mas, de alguma forma ela precisa demonstrar interesse e que ela investe em si mesmo. Nesse [episódio](https://devnaestrada.com.br/2017/06/02/entrevista-fabio-akita.html){:target="_blank"} do podcast Devnaestrada um dos participantes fala bastante sobre isso, vale muito ouvir o episódio inteiro.
+Não quero dizer que uma pessoa deve ficar 24 horas por dia estudando e criando projetos, mas, de alguma forma ela precisa demonstrar interesse e que ela investe em si mesmo. Nesse [episódio](https://devnaestrada.com.br/2017/06/02/entrevista-fabio-akita.html){:target="_blank"} do podcast devnaestrada um dos participantes fala bastante sobre isso, vale muito ouvir o episódio inteiro.
 
-Em resumo, acredito que buscar formas de aprender; não ficar parado e se __envolver com pessoas que já estão na área__, são formas bem legais de identificar oportunidades de começar. Sempre há alguém disposto a ajudar compartilhando conhecimento seja, presencialmente por meio de meetups ou na internet em tutoriais, blogs e canais.
+Enfim, acredito que buscar formas de aprender, não ficar parado e se __envolver com pessoas que já estão na área__, são formas bem legais de identificar oportunidades de começar. Sempre há alguém disposto a ajudar compartilhando conhecimento, seja presencialmente por meio de meetups ou na internet em tutoriais, blogs e canais.
 
 Aqui vai uma dica de [podcasts e canais de tecnologia](/favorites/){:target="_blank"} para ouvir diversas experiências de quem tem muito a compartilhar.
 
