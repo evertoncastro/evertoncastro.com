@@ -121,3 +121,12 @@
 p {
     margin-bottom: 0px;
 }
+
+.img-responsive{
+    width: 100%;
+    max-width: 400px;
+    display: block;
+    text-align: center;
+    margin: 10px auto;
+    border: 1px solid #9e9e9e;
+}
