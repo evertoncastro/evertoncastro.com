@@ -2,7 +2,7 @@ title: Everton Castro
 description: > # this means to ignore newlines until "baseurl:"
   Conteúdo sobre desenvolvimento de sistemas. Início de carreira em tecnologia e compartilhamento de experiências de estudo.
 permalink: ':title/'
-baseurl: "/"
+baseurl: ""
 url: "https://www.evertoncastro.com"
 site-twitter:
 
