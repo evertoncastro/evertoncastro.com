@@ -14,6 +14,9 @@ npm install
 
 ````
 
+## Gem install
+bundle install
+
 ## Running project
 
 ```
@@ -23,6 +26,9 @@ gulp
 ou
 jekyll serve --livereload
 ```
+
+## Build
+jekyll build
 
 ### License
 
