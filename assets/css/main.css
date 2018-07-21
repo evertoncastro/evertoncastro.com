@@ -1024,7 +1024,7 @@ table tfoot td {
 }
 
 .menu-content .menu-list .menu-item {
-  margin: 15px 10px;
+  margin: 11px 10px;
   -webkit-transition: -webkit-transform 0.35s;
   transition: -webkit-transform 0.35s;
   -o-transition: transform 0.35s;
