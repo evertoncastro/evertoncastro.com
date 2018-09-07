@@ -15,15 +15,16 @@ npm install
 ````
 
 ## Gem install
+
 bundle install
 
 ## Running project
 
 ```
 gulp default
-ou
+or
 gulp
-ou
+or
 jekyll serve --livereload
 ```
 
