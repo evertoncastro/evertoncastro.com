@@ -5,7 +5,16 @@ permalink: /favorites/
 ---
 
 # Favoritos
-Estes são os Podcasts, Blogs, Canais, Sites e Livros que utilizo para consumir conteúdo e aprender mais sobre vários temas.
+Estes são os Livros, Podcasts, Blogs, Canais e Sites que utilizo para consumir conteúdo e aprender mais sobre vários temas.
+
+* LIVROS 📘
+    + Tecnologia
+        - [Os Inovadores <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.amazon.com.br/dp/B00NUEMGXW/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1){:target="_blank"}
+    + Programação
+        - [You Dont Know JS <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://github.com/getify/You-Dont-Know-JS){:target="_blank"}
+        - [Clean Code <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.amazon.com.br/dp/B001GSTOAM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1){:target="_blank"}
+    + Diversos
+        - [21 lições para o século 21 <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.amazon.com.br/dp/B07BFGS9Y5/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1){:target="_blank"}
 
 * PODCASTS 🎧
     + Tecnologia
@@ -46,16 +55,9 @@ Estes são os Podcasts, Blogs, Canais, Sites e Livros que utilizo para consumir 
     + Tecnologia
         - [iMasters <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://imasters.com.br/){:target="_blank"}
         - [InfoQ <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.infoq.com/br){:target="_blank"}
-        
-* LIVROS 📘
-    + Tecnologia
-        - [You Dont Know JS <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://github.com/getify/You-Dont-Know-JS){:target="_blank"}
-        
+                
 * APLICATIVOS 👨‍💻
-    - [PodCast Addict <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict){:target="_blank"} Com este aplicativo consigo gerenciar todos o Podcasts que acompanho. Posso baixar em meu smartphone para ouvir a caminho do trabalho.
-    - [PodCast Addict - Donate <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddictdonate){:target="_blank"} Adquiri a versão paga para apoiar o criador. Ele sempre lança novas atualizações com novas features e bug fixes.
     - [Moon+ Reader <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader){:target="_blank"} Melhor aplicativo que ja utilizei pra ler Epub e PDF.
-    - [Moon+ Reader Pro <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp){:target="_blank"} Adquiri a versão paga para ter uns temas legais e apoiar o criador.
     - [YouTube Go <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.mango){:target="_blank"} Eu nem acreditei quando o Google publicou esse aplicativo. Com ele é possível baixar vídeos do Youtube para assistir offline. Me ajuda muito quando quero estudar alguma aula que está disponível nos canais que acompanho.
     - [Meetup <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://play.google.com/store/apps/details?id=com.meetup){:target="_blank"} Com esse aplicativo é possível se manter informado a garantir presença nos meetups da região.
        

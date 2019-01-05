@@ -6,7 +6,7 @@ permalink: /about/
 # Sobre
 
 
-Sou desenvolvedor ​W​eb (Full-Stack) em uma startup em São Paulo, a [Promo de Bolso](https://promodebolso.site){:target="_blank"}. Trabalho com tecnologia há 7 anos e 4 anos com​o desenvolvedor​. Sou formado em Informática para Negócios pela Fatec Mauá. 
+Sou desenvolvedor ​W​eb (Full-Stack) em uma startup em São Paulo, a [Promo de Bolso](https://promodebolso.site){:target="_blank"}. Trabalho com tecnologia há 7 anos e 4 anos com​o desenvolvedor​. Sou formado em Informática para Negócios pela Fatec Mauá. Atualmente cursando Pós Graduação/MBA em Tecnologia e Inovação pela Fatec São Paulo. 
  
 Nos últimos anos me dediquei muito a melhorar minhas habilidades como desenvolvedor, isso inclui habilidades técnicas, comportamentais e sociais. ​A Promo de Bolso ​tem um ambiente super dinâmico onde ​aprendo com os projetos e produtos que tenho oportunidade de participar. Isso faz com que eu aprenda muita coisa em um curto período de tempo. 
 
