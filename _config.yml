@@ -1,5 +1,5 @@
 title: Everton Castro
-description: > # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl"
   Conteúdo sobre desenvolvimento de sistemas. Início de carreira em tecnologia e compartilhamento de experiências de estudo.
 permalink: ':title/'
 baseurl: ""
@@ -10,7 +10,7 @@ site-twitter:
 author: Everton Castro
 author-img: me.jpg
 about-author: Desenvovedor Full Stack, fã de podcasts, canais e livros de tecnologia. <br/>🎧💻📚
-social-twitter: evertonCastroSP
+social-twitter: evertond3castro
 social-facebook: everton.decastro.12
 social-github: evertoncastro
 social-linkedin: evertonfatecit
