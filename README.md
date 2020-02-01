@@ -31,7 +31,7 @@ jekyll serve --livereload
 ```
 
 ## Build
-jekyll build
+bundle exec jekyll serve
 
 ### License
 

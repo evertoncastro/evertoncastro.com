@@ -8,4 +8,5 @@ group :jekyll_plugins do
   gem "jekyll-paginate", "1.1.0"
   gem "jekyll-feed", "0.13.0"
   gem "jekyll-watch", "2.0.0"
+  gem "i18n", "0.9.5"
 end
