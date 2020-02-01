@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
 group :jekyll_plugins do
+  gem "bundler", "2.1.4"
   gem "jekyll", "3.8.4"
   gem "jekyll-sass-converter", "1.5.2"
   gem "jekyll-sitemap", "1.4.0"
