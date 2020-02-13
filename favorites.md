@@ -21,19 +21,15 @@ Estes são os Livros, Podcasts, Blogs, Canais e Sites que utilizo para consumir 
         - [Hipsted Ponto Tech <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://hipsters.tech/){:target="_blank"}
         - [devnaestrada <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://devnaestrada.com.br/){:target="_blank"}
         - [Like a Boss <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.likeaboss.com.br/){:target="_blank"}
-        - [Pod Programar <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://mundopodcast.com.br/podprogramar/){:target="_blank"}
+        - [Lambda3 <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.lambda3.com.br/lambda3-podcast/){:target="_blank"}
     + Diversos
         - [Nerd Cast <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://jovemnerd.com.br/nerdcast/){:target="_blank"}
-        - [Café Brasil <i class="fa fa-external-link-square" aria-hidden="true"></i>](http://www.portalcafebrasil.com.br/podcasts/){:target="_blank"}
-        - [GV Cast <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://geracaodevalor.com/gvcast/){:target="_blank"}
 
 * BLOGS 💻
     + Tecnologia
         - [Blog da Alura <i class="fa fa-external-link-square" aria-hidden="true"></i>](http://blog.alura.com.br//){:target="_blank"}
         - [Blog da Caelum <i class="fa fa-external-link-square" aria-hidden="true"></i>](http://blog.caelum.com.br/){:target="_blank"}
-        - [Gabs Ferreira <i class="fa fa-external-link-square" aria-hidden="true"></i>](http://gabsferreira.com/){:target="_blank"}
     + Diversos
-        - [Café Brasil <i class="fa fa-external-link-square" aria-hidden="true"></i>](http://www.portalcafebrasil.com.br/todos/artigos/){:target="_blank"}
         - [Rainha Vermelha <i class="fa fa-external-link-square" aria-hidden="true"></i>](http://scienceblogs.com.br/rainha/){:target="_blank"}
 
 * CANAIS ⏩
@@ -44,12 +40,9 @@ Estes são os Livros, Podcasts, Blogs, Canais e Sites que utilizo para consumir 
         - [Código Fonte TV <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.youtube.com/channel/UCFuIUoyHB12qpYa8JpxoxowA){:target="_blank"}
         - [Fun Fun Function <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q){:target="_blank"}
         - [Pagar.me Talks <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.youtube.com/channel/UCNhSCufrcOMeFvzEM7tt9Lw){:target="_blank"}
-        - [The Coding Train <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw){:target="_blank"}
-        - [Eduardo Mendes <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.youtube.com/channel/UCAaKeg-BocRqphErdtIUFFw){:target="_blank"}
+        - [Live de Python <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.youtube.com/channel/UCAaKeg-BocRqphErdtIUFFw){:target="_blank"}
     + Diversos
         - [Nerdologia <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.youtube.com/channel/UClu474HMt895mVxZdlIHXEA){:target="_blank"}
-        - [Gustavo Cerbasi <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.youtube.com/channel/UC_mSfchV-fgpPy-vuwML8_A){:target="_blank"}
-        - [The English Coach <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://www.youtube.com/channel/UC-g0gSStENkYPXFRsKrlvyA){:target="_blank"}
     
 * SITES 🌐
     + Tecnologia
@@ -58,7 +51,6 @@ Estes são os Livros, Podcasts, Blogs, Canais e Sites que utilizo para consumir 
                 
 * APLICATIVOS 👨‍💻
     - [Moon+ Reader <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader){:target="_blank"} Melhor aplicativo que ja utilizei pra ler Epub e PDF.
-    - [YouTube Go <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.mango){:target="_blank"} Eu nem acreditei quando o Google publicou esse aplicativo. Com ele é possível baixar vídeos do Youtube para assistir offline. Me ajuda muito quando quero estudar alguma aula que está disponível nos canais que acompanho.
     - [Meetup <i class="fa fa-external-link-square" aria-hidden="true"></i>](https://play.google.com/store/apps/details?id=com.meetup){:target="_blank"} Com esse aplicativo é possível se manter informado a garantir presença nos meetups da região.
        
         
@@ -66,4 +58,4 @@ Estes são os Livros, Podcasts, Blogs, Canais e Sites que utilizo para consumir 
     <div class="wrap-content">
         {% include disqus.html %}
     </div>
-</div>      
+</div>
