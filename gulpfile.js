@@ -6,8 +6,14 @@ var pngquant = require('imagemin-pngquant');
 var cache = require('gulp-cache');
 var cp = require('child_process');
 var browserSync = require('browser-sync');
+var runSequence = require('run-sequence');
 
 var jekyll   = process.platform === 'win32' ? 'jekyll.bat' : 'jekyll';
+
+// Build with optimized images
+gulp.task('build', function(callback) {
+    runSequence('jekyll-build', ['img'], callback);
+});
 
 // Build the Jekyll Site
 gulp.task('jekyll-build', function (done) {
