@@ -1,4 +1,4 @@
-# My site using a Jekyll Awesome Theme Flexible-Jekyll. :ok_hand:
+# My web site using Jekyll (Awesome Theme Flexible-Jekyll) :ok_hand:
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c479460d-78d1-4329-93c6-f34c156a0ebc/deploy-status)](https://app.netlify.com/sites/evertoncastro/deploys)
 
@@ -11,8 +11,8 @@
 
 ## Dependencies
 
-- Ruby 2.3.6 (Shame!!! Needs update, I know! :upside_down_face:)
-- Jekyll 3.8.4 (Netlify has support for 4.0.0)
+- Ruby 2.3.6 (Needs update. Netlify supports v2.6.3!)
+- Jekyll 3.8.4 (Needs update. Netlify has support for v4.0.0)
 - Node >= 8.17.0
 
 ## Development:
@@ -27,10 +27,7 @@ bundle install
 
 ```
 gulp
-````
-
 or
-```
 jekyll serve --livereload
 ```
 
@@ -51,8 +48,8 @@ rbenv install 2.3.6
 
 Set local version
 ```
-rbenv local [ruby version]
-rbenv shell [ruby version]
+rbenv local 2.3.6
+rbenv shell 2.3.6
 ```
 
 List local gems
