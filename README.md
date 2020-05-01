@@ -1,6 +1,7 @@
 # My web site using Jekyll (Awesome Theme Flexible-Jekyll) :ok_hand:
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c479460d-78d1-4329-93c6-f34c156a0ebc/deploy-status)](https://app.netlify.com/sites/evertoncastro/deploys)
+![Jekyll](https://github.com/evertoncastro/evertoncastro.com/workflows/Jekyll/badge.svg)
 
 ## Features
 
