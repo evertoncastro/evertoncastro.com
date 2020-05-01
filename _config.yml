@@ -27,7 +27,6 @@ markdown: kramdown
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-feed
 
 paginate: 4

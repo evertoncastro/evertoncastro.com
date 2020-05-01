@@ -1,8 +1,8 @@
 {
   "name": "Everton Castro",
   "short_name": "Everton",
-  "theme_color": "#797f83",
-  "background_color": "#3c9ae4",
+  "theme_color": "#000000",
+  "background_color": "#000000",
   "display": "browser",
   "Scope": "/",
   "start_url": "/",
