@@ -1,0 +1,30 @@
+name: Jekyll
+
+on:
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  jekyll:
+    name: Emulate Jekyll site build
+
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Node    
+      uses: actions/setup-node@v1
+      with:
+        node-version: '8.17.0'
+    - name: Ruby
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: '2.4'        
+    - name: Install dependencies
+      run: |
+        npm install
+        bundle install
+        gem query --local
+    - name: Run Gulp/Jekyll build
+      run: |
+        gulp build
