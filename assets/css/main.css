@@ -919,6 +919,15 @@ table tfoot td {
   clear: both;
 }
 
+.gutter {
+  width: 40px;
+}
+
+.lineno {
+  text-align: center;
+  padding: 2px 2px;
+}
+
 /* - - - - - - - - - - Home Page Styles - - - - - - - - - - */
 .sidebar {
   display: -webkit-box;
